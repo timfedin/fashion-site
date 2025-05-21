@@ -28,3 +28,4 @@
 *(Да, теперь я действительно могу называть себя фронтенд-разработчиком. И это приятно.)*  
 
 **#KeepCoding #FrontendJourney**
+![screencapture-file-C-Users-timo-Downloads-fashion-site-main-1-fashion-site-main-index-html-2025-05-21-22_00_09 (1)](https://github.com/user-attachments/assets/4129b8c3-301b-4a61-86b6-ccb0d905dffa)
